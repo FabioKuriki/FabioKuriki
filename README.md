@@ -1,4 +1,6 @@
-<h2>Olá, mundo. Eu sou o Fabio Kuriki e bem-vindo ao meu GitHub 👋</h2>
+<h2>Oi, eu sou o Fabio Kuriki e bem-vindo ao meu GitHub 👋</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Olá,&nbsp;mundo&fontSize=50%&fontColor=fff&fontAlignY=35"/>
+  
 
 <!--
 **FabioKuriki/FabioKuriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
