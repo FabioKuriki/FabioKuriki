@@ -1,4 +1,4 @@
-<h2>Olá, mundo. Eu sou o Fabio Kuriki 👋</h2>
+<h2>Olá, mundo. Eu sou o Fabio Kuriki e Bem-vindo ao meu GitHub 👋</h2>
 
 <!--
 **FabioKuriki/FabioKuriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
